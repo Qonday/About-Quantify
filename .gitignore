@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+# 行情数据体积大，不入库
+data/*.csv
+.env
